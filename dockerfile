@@ -45,3 +45,4 @@ CMD ["./run_werewolf.zsh", "init", "3"]
 # ENTRYPOINT ["./werewolf-cli"]
 # 默认参数示例：
 # CMD ["0", "./data/3"]
+
